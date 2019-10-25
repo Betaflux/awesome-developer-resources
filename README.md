@@ -1,2 +1,6 @@
 # awesome-developer-resources
 Awesome reading material for programmers.
+
+#### Git
+1. [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+2. [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
