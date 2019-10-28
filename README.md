@@ -10,3 +10,7 @@ Awesome reading material for programmers.
 #### Code Architecture
 1. [An Introduction to Code Refactoring](https://refactoring.guru/refactoring)
 2. [Code Refactoring Best Practices: When (and When Not) to Do It](https://www.altexsoft.com/blog/engineering/code-refactoring-best-practices-when-and-when-not-to-do-it/)
+
+
+#### Python
+1. [Python Epiphanies](https://pyvideo.org/pycon-us-2012/python-epiphanies.html)
