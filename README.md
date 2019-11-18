@@ -14,3 +14,7 @@ Awesome reading material for programmers.
 
 #### Python
 1. [Python Epiphanies](https://pyvideo.org/pycon-us-2012/python-epiphanies.html)
+
+
+#### Developer Blogs
+1. [Joel on Software](https://www.joelonsoftware.com/)
