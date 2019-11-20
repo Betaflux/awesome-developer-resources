@@ -20,4 +20,4 @@ Awesome reading material for programmers.
 
 #### Developer Blogs
 1. [Joel on Software](https://www.joelonsoftware.com/)
-2. [Greg Franko] (http://gregfranko.com/)
+2. [Greg Franko](http://gregfranko.com/)
