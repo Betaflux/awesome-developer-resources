@@ -15,6 +15,9 @@ Awesome reading material for programmers.
 #### Python
 1. [Python Epiphanies](https://pyvideo.org/pycon-us-2012/python-epiphanies.html)
 
+#### JavaScript
+1. [jQuery Best Practices](http://gregfranko.com/jquery-best-practices/)
 
 #### Developer Blogs
 1. [Joel on Software](https://www.joelonsoftware.com/)
+2. [Greg Franko](http://gregfranko.com/)
